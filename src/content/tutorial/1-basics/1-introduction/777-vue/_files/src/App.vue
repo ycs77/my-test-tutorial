@@ -1,6 +1,6 @@
 <template>
-  <div></div>
-  <h1>My name is Lucas Yang</h1>
+  <div>message</div>
+  <h1>My name is {{ name }}</h1>
 </template>
 
 <script setup>
