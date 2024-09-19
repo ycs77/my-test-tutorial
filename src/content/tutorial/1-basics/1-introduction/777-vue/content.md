@@ -14,6 +14,8 @@ focus: /src/App.vue
 </template>
 
 <script setup>
+import { ref } from 'vue'
+
 const message = ref('Hello vue!')
 const name = ref('Lucas Yang')
 </script>

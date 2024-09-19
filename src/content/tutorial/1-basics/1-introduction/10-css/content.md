@@ -9,7 +9,7 @@ focus: /style.css
 
 ```css
 .text {
-    color: #ffffff;
-    background-color: #ef4444;
+  color: #ffffff;
+  background-color: #ef4444;
 }
 ```
